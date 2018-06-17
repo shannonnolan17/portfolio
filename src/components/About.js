@@ -15,7 +15,7 @@ class About extends Component {
 
         <div className="project-sections">
           <h2 className='subtitle'>SENYOURS</h2>
-          <p className="p-font">Senyours connects senior adults with veriﬁed, background checked local citizens in their community. For an affordable rate, our Companions help seniors with their daily activities shopping, laundry, and medical appointments. Companions are also happy to join you on walks, meals, and outings. As a Software Engineer for Senyours, I designed several aspects of the site including the 'How it Works' section and the 'What People are Saying' section as seen below:</p>
+          <p className="p-font"><a href="https://senyours.io" target="_blank" className="link-color">Senyours</a> connects senior adults with veriﬁed, background checked local citizens in their community. For an affordable rate, our Companions help seniors with their daily activities shopping, laundry, and medical appointments. Companions are also happy to join you on walks, meals, and outings. As a Software Engineer for Senyours, I designed several aspects of the site including the 'How it Works' section and the 'What People are Saying' section as seen below:</p>
           <img className="container about-pic" src={require('./senyours.png')}/>
           <img className="container about-pic" src={require('./howworks.png')}/>
         </div>
@@ -29,7 +29,7 @@ class About extends Component {
         <div className="project-sections">
           <h2 className='subtitle'>GOOD GRIEF</h2>
           <p className="p-font">Good Grief is a mobile-first web application that strives to assist people move through the five stages of grief after a relationship dissolution. It aims to facilitate the process of healing from a broken heart by providing a collection of resources specifically tailored to each stage, as well as a safe environment to connect with others going through similar experiences. You can<a href="https://github.com/shannonnolan17/good-grief-front" target="_blank" className="link-color"> check it out</a> on GitHub!</p>
-          <img className="container about-pic" src={require('./user_page_1.png')} alt="Photo by Thomas Verbruggen on Unsplash"/>
+          <img className="container about-pic" src={require('./user_page_1.png')}/>
         </div>
       </div>
     );

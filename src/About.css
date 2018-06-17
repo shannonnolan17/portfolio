@@ -35,9 +35,10 @@
 }
 
 .about-pic {
-  width: 70%;
-  height: 70%;
-  z-index: 2;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
 }
 
 .project-sections {
