@@ -21,7 +21,7 @@ class About extends Component {
         <div className="project-sections">
           <h2 className='subtitle'>GOOD GRIEF</h2>
           <p className="p-font">Good Grief is a mobile-first web application that strives to assist people move through the five stages of grief after a relationship dissolution. It aims to facilitate the process of healing from a broken heart by providing a collection of resources specifically tailored to each stage, as well as a safe environment to connect with others going through similar experiences. You can<a href="https://github.com/shannonnolan17/good-grief-front" target="_blank" className="link-color"> check it out</a> on GitHub!</p>
-          <img className="container about-pic" src={require('./home_page.png')} alt="Photo by Thomas Verbruggen on Unsplash"/>
+          <img className="container about-pic" src={require('./user_page_1.png')} alt="Photo by Thomas Verbruggen on Unsplash"/>
         </div>
       </div>
     );
