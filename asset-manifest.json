@@ -1,6 +1,11 @@
 {
-  "main.css": "static/css/main.2d26f4d3.css",
-  "main.css.map": "static/css/main.2d26f4d3.css.map",
-  "main.js": "static/js/main.c9a57813.js",
-  "main.js.map": "static/js/main.c9a57813.js.map"
+  "main.css": "static/css/main.6a634336.css",
+  "main.css.map": "static/css/main.6a634336.css.map",
+  "main.js": "static/js/main.f0610c78.js",
+  "main.js.map": "static/js/main.f0610c78.js.map",
+  "static/media/howworks.png": "static/media/howworks.94d70443.png",
+  "static/media/landing-page.png": "static/media/landing-page.4362e3d8.png",
+  "static/media/leaves.jpg": "static/media/leaves.213e8425.jpg",
+  "static/media/senyours.png": "static/media/senyours.ba06d390.png",
+  "static/media/user_page_1.png": "static/media/user_page_1.f6d09e8c.png"
 }
