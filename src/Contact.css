@@ -6,3 +6,25 @@
   line-height: 1.5em;
   margin-bottom: 1em;
 }
+.button-wrapper {
+  display:flex;
+  justify-content:center;
+  align-items:flex-end;
+}
+.email-button {
+  border-radius: 5px;
+  border: 1px solid #004d00;
+  display: inline-block;
+  color: #494c4e;
+  padding: 1em 1.5em;
+  font-size: 1.5em;
+  font-style: italic;
+  cursor: pointer;
+  margin: 0 1em;
+  margin-bottom: 3em;
+  min-width: 10em;
+  transition: all 0.25s ease;
+  background-color: transparent;
+  text-align: center;
+  text-decoration: none;
+}
