@@ -1,9 +1,12 @@
 .title {
   font-family: 'Playfair Display', serif;
+  max-width: 70em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .title-pic{
   height: 520px;
   width: 100%;
-  padding: 20px;
+  padding: 10px;
 }
