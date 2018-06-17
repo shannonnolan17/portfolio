@@ -1,11 +1,14 @@
 import React, { Component } from 'react';
-import './App.css';
 
 class Navbar extends Component {
   render() {
     return (
-      <div className="App">
-
+      <div className="Navbar">
+        <nav class="navbar navbar-light bg-light">
+          <a class="navbar-brand" href="#">
+            <img src="/assets/brand/bootstrap-solid.svg" width="30" height="30" alt=""/>
+          </a>
+        </nav>
       </div>
     );
   }

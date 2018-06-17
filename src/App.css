@@ -1,9 +1,9 @@
 body{
-  border: 7px solid #4d4d4d;
+  border: 8px solid #4d4d4d;
   position: absolute;
   top: 0;
   right: 0;
-  bottom:0;
   left: 0;
   overflow: auto;
 }
+
