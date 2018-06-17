@@ -9,7 +9,10 @@
 }
 
 .title-pic{
-  height: 520px;
+  display: block;
   width: 100%;
-  padding: 10px;
+  height: 520px;
+  margin-bottom: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
 }
