@@ -1,14 +1,18 @@
 .p-font{
   font-family: 'Playfair Display', serif;
+  color: #494c4e;
+  font-size: 1.5em;
+  line-height: 2em;
+  margin-bottom: 1.5em;
+  -webkit-font-smoothing: antialiased;
 }
 
 .title-font {
   font-family: 'Tajawal', sans-serif;
   font-weight: bold;
-  -webkit-margin-before: 1em;
-  -webkit-margin-after: 1em;
-  -webkit-margin-start: 0px;
-  -webkit-margin-end: 0px;
+  font-size: 2em;
+  line-height: 1em;
+  margin-bottom: 1.5em;
 }
 
 .inner-container {
