@@ -1,3 +1,9 @@
 .title {
   font-family: 'Playfair Display', serif;
 }
+
+.title-pic{
+  height: 520px;
+  width: 100%;
+  padding: 20px;
+}
