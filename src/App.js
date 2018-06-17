@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Navbar from './components/Navbar';
 import Title from './components/Title';
+import About from './components/About.js';
 import './App.css';
 
 class App extends Component {
@@ -13,6 +14,10 @@ class App extends Component {
 
         <section className="">
           <Title />
+        </section>
+
+        <section className="container">
+          <About />
         </section>
       </div>
     );
