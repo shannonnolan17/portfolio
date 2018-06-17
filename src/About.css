@@ -4,5 +4,11 @@
 
 .title-font {
   font-family: 'Tajawal', sans-serif;
-  font-weight: bold;
+  font-weight: 700;
+}
+
+.inner-container {
+  max-width: 70em;
+  margin-left: auto;
+  margin-right: auto;
 }
