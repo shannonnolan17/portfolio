@@ -9,10 +9,6 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <section className="container">
-          <Navbar />
-        </section>
-
         <section className="">
           <Title />
         </section>
