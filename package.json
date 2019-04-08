@@ -2,6 +2,9 @@
   "homepage": "https://shannonnolan17.github.io/portfolio",
   "name": "portfolio",
   "version": "0.1.0",
+  "engines": {
+    "node": "11.13.0"
+  },
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
