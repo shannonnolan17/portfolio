@@ -12,7 +12,7 @@ class About extends Component {
           <p className="p-font">I am a former elementary school teacher turned techie that noticed that I always loved bringing technology into the classroom. So I packed my things and headed to San Francisco to attend DevBootcamp where my passion for coding expanded. I have experience working as a full-time fullstack Software Engineer at HomeShare which works to make living affordable for everyone. I have also done part-time work as a Software Engineer at SenYours(an app to connect seniors to their community) and I am a Salesforce Guru at the Columbus Organization. You can check out my latest work history on my <a href="https://www.linkedin.com/in/shannonnolan/" target="_blank" className="link-color">Linkedin</a>. When I'm not learning something new, I love to hike and take pictures or work on my many side projects found on my <a href="https://github.com/shannonnolan17" target="_blank" className="link-color">GitHub</a>. Currently, I am looking for a full-stack(or frontend/ backend) role in San Francisco.</p>
         </div>
 
-        <h3 className="title-font">Things I've worked on </h3>
+        <h3 className="title-font">Things I've worked on</h3>
 
         <div className="project-sections">
           <h2 className='subtitle'>HomeShare</h2>
